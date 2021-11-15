@@ -2,7 +2,7 @@
 
 It is possible to use "Curve.CurvatureAt Method".
 
-However, this method cannot return normal vector of the line of line + polyline joint curve.
+However, this method cannot return normal vector of lines from line + polyline joint curve.
 
 So, I rather generated vector between closest point and base point.
 
